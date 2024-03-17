@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.beans.Transient"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.employeepayrollapp.exception.EmployeeAlreadyExistsException"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.employeepayrollapp.response.Response"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.employeepayrollapp.service.SequenceGeneratorService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
+</qualifiedTypeNameHistroy>
